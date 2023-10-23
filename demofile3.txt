@@ -1,1 +1,3 @@
 This is my second file, but mentioned as third.
+
+This is an additional feature that is created from the feature branch.
